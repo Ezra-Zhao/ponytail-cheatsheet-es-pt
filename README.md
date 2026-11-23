@@ -1,5 +1,7 @@
 # Ponytail en una página · Hoja de trucos de Ponytail (cheatsheet)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 [![Stars del proyecto original](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social)](https://github.com/DietrichGebert/ponytail/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Idiomas](https://img.shields.io/badge/idiomas-ES%20·%20PT-blue)
 
 Support & more: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — templates & workbooks I use](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
